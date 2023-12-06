@@ -1,0 +1,220 @@
+#about {
+    background-color: rgb(30, 30, 30);
+    border: none;
+    color: rgb(255, 255, 255);
+  }
+  #contact {
+    background-color: rgb(30, 30, 30);
+    border: none;
+    color: rgb(194, 194, 194);
+  }
+  #report {
+    background-color: rgb(30, 30, 30);
+    border: none;
+    color: rgb(179, 179, 179);
+  }
+  footer {
+    padding-top: 20px;
+    height: 50px;
+    padding-left: 43%;
+    background-color: rgb(30, 30, 30);
+    cursor: pointer;
+    border-radius: 5px;
+    margin-top: 93%;
+  }
+  section {
+    background: -moz-linear-gradient(black), (rgb(3, 3, 3));
+    padding-left: 1%;
+    position: sticky;
+  }
+  #ARTIST {
+    
+    height: 30px;
+    background-color: rgb(30, 30, 30);
+    border: none;
+    color: rgb(255, 255, 255);
+    cursor: pointer;
+    margin-left: 390PX;
+  }
+  #ARTIST:hover{
+    background-color: red;
+    transition: 1S;
+  }
+  #ARTIST:active{
+    background-color: rgb(255, 46, 46);
+
+  }
+  #genre {
+    height: 30px;
+    background-color: rgb(30, 30, 30);
+    border: none;
+    color: rgb(255, 255, 255);
+    cursor: pointer;
+  }
+  #genre:hover{
+    background-color: red;
+    transition: 1s;
+  }
+  #genre:active{
+    background-color: rgb(255, 46, 46);
+    transition: 1s;
+  }
+  
+  #PRODUCE {
+    height: 30px;
+    background-color: rgb(30, 30, 30);
+    border: none;
+    color: rgb(255, 255, 255);
+    cursor: pointer;
+  }
+  #PRODUCE:hover{
+    background-color: red;
+    transition: 1s;
+  }
+  #produce:active{
+    background-color: rgb(255, 46, 46);
+    transition: 1s;
+  }
+  #TOP10 {
+    height: 30px;
+    background-color: rgb(30, 30, 30);
+    border: none;
+    color: rgb(255, 255, 255);
+    cursor: pointer;
+  }
+  #TOP10:hover{
+    background-color: red;
+    transition: 1s;
+  }
+  header {
+    padding-top: 27PX;
+    height: 60px;
+
+    background-color: rgb(30, 30, 30);
+    
+    border-radius: 5px;
+  }
+  body {
+    background-color: black;
+    color: white;
+    font: bolder;
+    
+  }
+
+
+  #about:hover {
+    color: rgb(255, 0, 0);
+    transition: 1s;
+  }
+  #contact:hover {
+    color: rgb(255, 0, 0);
+    transition: 1s;
+  }
+  #report:hover {
+    color: rgb(255, 0, 0);
+    transition: 1s;
+  }
+  #icon{
+    height: 30px;
+  }
+  h1:hover{
+    color: rgb(255, 0, 0);
+    transition: 1s;
+    
+  }
+  h2:hover{
+    color: red;
+    transition: 1s;
+  }
+  h3:hover{
+    color: red;transition: 1s;
+    transition: 1s;
+  }
+  li:hover{
+    color:rgb(255, 0, 0) ;
+    transition: 1s;
+  }
+  li{
+    cursor: pointer;
+  }
+  h1{
+    cursor: pointer;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+  }
+  h2{
+    cursor: pointer;
+  }
+  h3{
+    cursor: pointer;
+  }
+
+#videos{
+  background-color: rgb(30, 30, 30);
+  color: white;
+  border:none;
+  height: 30px;
+  cursor: pointer;
+}
+#videos:hover{
+  background-color: rgb(219, 0, 0);
+  
+  transition: 1s;
+  
+}
+#PLAYLIST{
+  background-color:rgb(30, 30, 30);
+  color: white;
+  
+  border: none;
+  height: 30px;
+}
+#PLAYLIST:hover{
+  opacity: 100%;
+  background-color: rgb(255, 0, 0);
+  color: white;
+  border-radius: 12%;
+  transition: 1s;
+  
+}
+#logol{
+  height: 40px ;
+  cursor: pointer;
+  margin-left: 0;
+  margin-top: 10PX;
+  
+}
+#SIGN{
+  background-color: rgb(30, 30, 30);
+  height: 30px;
+  border: none;
+  color: red;
+  border-left: 98%;
+  cursor: pointer;
+  transition: color, 0,15ms;
+  margin-right: 310px;
+}
+#SIGN:hover{
+  color: rgb(255, 138, 138)
+}
+#SIGN:active{
+  color: rgb(255, 54, 54);
+}
+#sub{
+  background-color: rgb(229, 0, 0);
+  color: white;
+  height: 30PX;
+  border: solid;
+  border-color: rgb(192, 0, 0);
+  border-radius: 5PX;
+  margin-right: 8PX;
+ 
+}
+#FOLL{
+  background-color: rgb(0, 85, 255);
+  color: white;
+  border: solid;
+  border-color: rgb(0, 85, 255);
+  border-radius: 10PX;
+  height: 30px;
+}
